@@ -1,0 +1,8 @@
+# Goal 可以把goal看成是一个结构体 Goal.order
+int32 order
+---
+# Result
+int32[] sequence
+---
+# Feedback
+int32[] sequence
